@@ -6,7 +6,8 @@ This project implements a custom Dynamic Window Approach (DWA) local planner for
 
 ![DWA Planner Demo](demo/dwa_demo.gif)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4UaUDrEudNM" frameborder="0" allowfullscreen></iframe>
+[![Watch the demo](https://img.youtube.com/vi/4UaUDrEudNM/0.jpg)](https://www.youtube.com/watch?v=4UaUDrEudNM)
+
 
 
 ## Prerequisites
