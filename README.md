@@ -2,6 +2,10 @@
 
 This project implements a custom Dynamic Window Approach (DWA) local planner for TurtleBot3 navigation in ROS2 Humble with Gazebo simulation.
 
+## Demo
+
+![DWA Planner Demo](demo/dwa_demo.gif)
+
 ## Prerequisites
 
 - Ubuntu 22.04 LTS
