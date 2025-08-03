@@ -6,6 +6,9 @@ This project implements a custom Dynamic Window Approach (DWA) local planner for
 
 ![DWA Planner Demo](demo/dwa_demo.gif)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4UaUDrEudNM" frameborder="0" allowfullscreen></iframe>
+
+
 ## Prerequisites
 
 - Ubuntu 22.04 LTS
